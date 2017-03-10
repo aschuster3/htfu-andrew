@@ -29,3 +29,9 @@ $('div.modal').on('show.bs.modal', function() {
 		}
 	}
 });
+
+function htfu() {
+  $('#htfu-email').css('display', 'none');
+  $('#htfu-message').css('display', 'inherit');
+};
+

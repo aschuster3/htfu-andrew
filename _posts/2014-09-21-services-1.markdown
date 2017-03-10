@@ -1,8 +1,9 @@
 ---
 layout: default
-img: ipad.png
+img: syringe-1973129_1920.jpg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
-description: |
+title: A Plan to fit your needs
+alt: "Doc, I'm gonna need 50cc of Harden the F*ck Up"
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  With options ranging from a monthly email to Andrew personally calling you reminding you to harden the f*ck up, we've got a plan to fit your lifestyle
+  and your budget.
